@@ -4,7 +4,7 @@
 http://cdn.maxcdn.live:80/movie/gu77/anderson77/52354.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U6sYdZq.png" ,Everyone is There
-https://drive.google.com/file/d/1oIidQfV2qTuM_eCdyZIqt5wNkHChPekM/view?t=12
+https://drive.usercontent.google.com/download?id=1oIidQfV2qTuM_eCdyZIqt5wNkHChPekM&export=download&authuser=0&confirm=t&uuid=8b4684a0-de74-4931-b5fe-dfcb274789a9&at=AIrpjvNsYAYHIW6XcWCymTx-aqp-%3A1737135159762
 
 #EXTINF:-1 tvg-logo="https://img68.tokyvideo.com/videos/566/566230/previews/previews_0012_custom_1719091790.0722.jpg" ,Divertidamente 2
 http://cdn.maxcdn.live:80/movie/gu77/anderson77/172690.mp4
